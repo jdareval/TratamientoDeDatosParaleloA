@@ -27,8 +27,8 @@ def info():
       return jsonify({
             'nombre': 'Microservicio BAse -  Tratamiento de Datos PAralelo A',
             'version': '1.0.0',
-            'descripcion': 'Este microservicio realiza operaciones basicas de suma y proporciona información del servicio.',
-            'autor': 'Julio Arévalo',
+            'descripcion': 'Este microservicio realiza operaciones basicas de suma y proporciona informacion del servicio.',
+            'autor': 'Julio Arevalo',
       })
 
 # para correr un programa se necesita un declarador y este seria el declarador de las API
